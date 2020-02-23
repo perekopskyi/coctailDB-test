@@ -1,0 +1,25 @@
+.content {
+  padding: 50px;
+  max-width: 1200px;
+}
+
+.category_title {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: #818181;
+}
+.coctails {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  height: 300px;
+  margin: 10px;
+}
+
+img {
+  width: 200px;
+}
